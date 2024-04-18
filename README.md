@@ -25,6 +25,6 @@
 ###
 
 <p align="left">Pack of Victoria 3 icons for AoH mods.</p>
-<p align="left">[Figma.](https://www.figma.com/file/dIB3Uj3fc8SAUFfwV2pBJt/Victoria-icons-for-modding-in-AoH2?type=design&node-id=0%3A1&mode=design&t=2jjRPmu9IgeuOZjZ-1)</p>
+<p align="left">https://www.figma.com/file/dIB3Uj3fc8SAUFfwV2pBJt/Victoria-icons-for-modding-in-AoH2?type=design&node-id=0%3A1&mode=design&t=2jjRPmu9IgeuOZjZ-1</p>
 
 ###
