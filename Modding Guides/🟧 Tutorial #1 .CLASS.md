@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hello modders, in this tutorial, I will provide a step-by-step guide on how to initiate and implement basic modifications to enable advanced mods within the game. Throughout this tutorial, I will demonstrate the process of making in-game alterations and changes within the exe file, allowing you to understand the modification process and empowering you to create customized experiences within the game. -</p>
+<p align="left">Hello modders, in this tutorial, I will provide a step-by-step guide on how to start and implement basic modifications to create in-game mods. Throughout this two-step tutorial, I will demonstrate a program for making changes to the game and changes to the .EXE file, allowing you to understand the modification process and enabling you to create customized experiences in the game. -</p>
 
 ###
 
