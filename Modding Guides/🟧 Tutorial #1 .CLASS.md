@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🟩🟨🟧🟥 This tutorial focuses on the classification of 🟧 square</p>
+<p align="left">🟩🟨🟧🟥 This tutorial focuses on the classification of 🟨 square</p>
 
 ###
 
